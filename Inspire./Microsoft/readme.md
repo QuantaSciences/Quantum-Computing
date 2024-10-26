@@ -1,0 +1,1 @@
+- [Microsoft & Quantinuum Just Changed Quantum Computing Forever: Meet the Logical Qubit](https://youtu.be/W-bV2JNhdaQ)
